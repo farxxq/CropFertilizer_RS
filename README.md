@@ -1,4 +1,3 @@
-### Week_2
-
-## The cleaning of all the data <br>
-## Also Vizualizing the data present through the plotting of it.
+# Week_2
+## The cleaning of all the data
+## Also Visualizing the data present, through the plotting of it.
